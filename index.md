@@ -82,3 +82,7 @@ wykładów, wystąpień na konferencjach oraz szkoleń.
 **Czy możiwa jest rezygnacja z uczestnictwa?**
 
 > Niestety nie, opłaty nie podlegają zwrotowi. Ale nic nie stoi na przeszkodzie aby zamiast Ciebie pojawił się ktoś inny.
+
+## Symentis
+
+Kim jesteśmy? Symentis to agencja konsultingowa - zespół profesjonalistów z wieloletnim doświadczeniem w branży rozwoju oprogramowania i nie tylko. Szkolenia i usługi konsultacyjne dopasowujemy do realnych potrzeb firmy, dla której pracujemy.
