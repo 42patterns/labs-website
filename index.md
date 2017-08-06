@@ -1,6 +1,6 @@
 # 4Developers Labs by Symentis
 
-Jedniodniowe warsztaty z trenerami [Symentis Labs](http://symentis.pl/) dla **programistów**, **architektów**. 
+Jedniodniowe warsztaty z trenerami [Symentis Labs](http://symentis.pl/) dla **programistów**, **architektów** - niezależnie od języka programowania.  
 
 ## Kiedy
 
@@ -8,19 +8,24 @@ Jedniodniowe warsztaty z trenerami [Symentis Labs](http://symentis.pl/) dla **pr
 
 ## Warsztaty
 
-### Łagodne, acz szczere wprowadzenie do mikroserwisów
+### Łagodnie, acz szczerze o świecie mikroserwisów
 
-### MongoDB dla programistów
+<!-- TODO: opis --> 
+<!-- TODO: dodać 5-7 punktów co będzie podczas tego szkolenia --> 
+
+### Wprowadzenie do MongoDB dla programistów
 
 Celem szkolenia jest przybliżenie uczestnikom tematu NoSQL na przykładzie MongoDB. 
 Na szkoleniu uczestnicy dowiedzą się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy 
-jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiedzą się również czym jest _id i dlaczego 
+jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiedzą się również czym jest \_id i dlaczego 
 identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu uczestnik będzie potrafił 
 zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), pozna i będzie umiał wykorzystać 
 składnie zapytań wraz z użyciem projekcji. Oprócz tego, uczestnik będzie potrafił tworzyć indeksy 
 i wykorzystywać je w zapytaniach. Dodatkowo, w ramach możliwości czasowych, uczestnik dowie się 
 jak realizowana jest agregacja, jakie są jej ograniczenia, będzie potrafił filtrować i agregować 
 dane z dokumentów oraz pozna mechanizm replikacji danych.
+
+<!-- TODO: dodać 5-7 punktów co będzie podczas tego szkolenia --> 
 
 ## Trenerzy
 
@@ -51,3 +56,29 @@ Z oprogramowaniem związany przez całe życie zawodowe. Przez ostatnie lata rea
 m.in. jako dyrektor techniczny w 250 osobowej firmie. Uważa, że najlepszym sposobem pracy ze specjalistami 
 jest aktywne dzielenie się własną wiedzą oraz aktywnie słuchać innych. Przekazuje doświadczenie w formie 
 wykładów, wystąpień na konferencjach oraz szkoleń.
+
+## Często zadawane pytania
+
+**Gdzie odbywa się szkolenie?**
+
+> Hotel Focus Premium w Gdańsku, ul. Do Studzienki (w tym samym miejscu co konferencja 4Developers)
+
+<!-- TODO: mapka --> 
+
+**Czy cena zawiera lunch**
+
+> Cena zawiera przerwy kawowe przez cały czas trwania szkolenia. Na lunch idziemy we własnym zakresie. 
+> Gdańsk Wrzeszcz to mekka hipsterstwa dając nam do wyboru masę świetnych miejsc z wysokiej jakości jedzeniem.
+> Więc po co kisić się w hotelu. 
+
+**A co z parkingiem?**
+
+> Cena nie zawiera parkingu. Przy hotelu jest parking (zewnętrzny) - w cenie 13 zł za dzień
+
+**Czy otrzymam fakturę VAT?**
+
+> Tak, fakturę otrzymasz po szkoleniu
+
+**Czy możiwa jest rezygnacja z uczestnictwa?**
+
+> Niestety nie, opłaty nie podlegają zwrotowi. Ale nic nie stoi na przeszkodzie aby zamiast Ciebie pojawił się ktoś inny.
