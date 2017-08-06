@@ -1,16 +1,16 @@
-= 4Developers Labs by Symentis
+# 4Developers Labs by Symentis
 
-Jedniodniowe warsztaty z trenerami link:http://symentis.pl/[Symentis Labs] dla *programistów*, *architektów*. 
+Jedniodniowe warsztaty z trenerami [Symentis Labs](http://symentis.pl/) dla **programistów**, **architektów**. 
 
-== Kiedy
+## Kiedy
 
 19 września 2017 (wtorek - po konferencji 4Developers) w Hotelu Focus Premium w Gdańsku (w tym samym miejscu do konferencja). 
 
-== Warsztaty
+## Warsztaty
 
-=== Łagodne, acz szczere wprowadzenie do mikroserwisów
+### Łagodne, acz szczere wprowadzenie do mikroserwisów
 
-=== MongoDB dla programistów
+### MongoDB dla programistów
 
 Celem szkolenia jest przybliżenie uczestnikom tematu NoSQL na przykładzie MongoDB. 
 Na szkoleniu uczestnicy dowiedzą się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy 
@@ -22,9 +22,9 @@ i wykorzystywać je w zapytaniach. Dodatkowo, w ramach możliwości czasowych, u
 jak realizowana jest agregacja, jakie są jej ograniczenia, będzie potrafił filtrować i agregować 
 dane z dokumentów oraz pozna mechanizm replikacji danych.
 
-== Trenerzy
+## Trenerzy
 
-=== Jarosław Pałka
+### Jarosław Pałka
 
 Od ponad 10 lat w branży IT, jako administrator baz danych, programista, architekt, manager 
 i "inżynier od spraw katastrof". Brał udział w małych, średnich i nonsensownie dużych projektach, 
@@ -36,14 +36,14 @@ W międzyczasie dał się porwać ideą TDD oraz Software Craftmanship, do grani
 prostocie pomysły jak REST, JavaScript i NOSQL, by potem porzucić je by zgłębić tajniki "system thinking" i 
 zachwycić się siłą jaką niesie z sobą "metafora" i odkryć, że rządzą nami te same prawa "natury".  
 
-=== Wiktor Sztajerowski
+### Wiktor Sztajerowski
 
 Programista z przypadku, Java Dev z zamiłowania, entuzjasta NoSQL. Wyznaje zasadę "keep it simple stupid" i 
 mocno wierzy w sens inwestowania w jakość kodu oraz "agile" przez małe "a". 
 Na codzień programista w BMS | Bankruptcy Management Solutions, 
 po godzinach jeden z liderów łódzkiego JUGa oraz Zwinnej Łodzi - społeczności około-agilowej. 
 
-=== Jakub Marchwicki
+### Jakub Marchwicki
 
 Jakub Marchwicki - programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – 
 konsultant, manager z wyboru, trener z zamiłowania, wannabe entrepreneur z marzeń, lider JUG w Gdańsku. 
