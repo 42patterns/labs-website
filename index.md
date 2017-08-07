@@ -85,4 +85,4 @@ wykładów, wystąpień na konferencjach oraz szkoleń.
 
 ## Symentis
 
-Kim jesteśmy? Symentis to agencja konsultingowa - zespół profesjonalistów z wieloletnim doświadczeniem w branży rozwoju oprogramowania i nie tylko. Szkolenia i usługi konsultacyjne dopasowujemy do realnych potrzeb firmy, dla której pracujemy.
+Kim jesteśmy? Symentis to _butik szkoleniowy_ - zespół profesjonalistów z wieloletnim, praktycznym doświadczeniem w branży rozwoju oprogramowania. Szkolenia i usługi konsultacyjne dopasowujemy do realnych potrzeb firmy, dla której pracujemy.
