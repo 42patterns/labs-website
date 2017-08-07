@@ -43,10 +43,9 @@ zachwycić się siłą jaką niesie z sobą "metafora" i odkryć, że rządzą n
 
 ### Wiktor Sztajerowski
 
-Programista z przypadku, Java Dev z zamiłowania, entuzjasta NoSQL. Wyznaje zasadę "keep it simple stupid" i 
-mocno wierzy w sens inwestowania w jakość kodu oraz "agile" przez małe "a". 
-Na codzień programista w BMS | Bankruptcy Management Solutions, 
-po godzinach jeden z liderów łódzkiego JUGa oraz Zwinnej Łodzi - społeczności około-agilowej. 
+Programista z ponad 5-cio letnim stażem, trener i konsultant w Symentis.pl, aspirujący mówca konferencyjny, znany między innymi z konferencji 4Developers i Confitura. 
+Obecnie Java Developer w Smart Coders, entuzjasta NoSQL’a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach w słusznych celach, dla sławy i zysku. 
+Prywatnie jeden z liderów łódzkiego JUG’a oraz Zwinnej Łodzi, grupy pasjonatów metody „agile”, a także współinicjator spotkań, Software Architecture & Design Debate, platformy nowego, ciekawego i szerszego spojrzenia na architekturę systemów IT.
 
 ### Jakub Marchwicki
 
