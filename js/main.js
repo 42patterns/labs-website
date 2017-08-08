@@ -151,6 +151,7 @@ function initialize() {
     var mapOptions = {
         zoom: 15,
         center: latLng,
+        key: AIzaSyCj96JZ681fhaPvSVXR0daguyibRkajcpc,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
         scrollwheel: false,
         draggable: false
