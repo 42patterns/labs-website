@@ -1,0 +1,144 @@
+# Custom vars
+# -------------------------
+
+current_version:  1.0.0
+name: Symentis Labs
+
+# Main Logo
+# -------------------------
+
+#logo_regular: "media/logo/symentis-logo_regular.png"
+#logo_small_devices: "media/logo/symentis-logo_small.png"
+logo_regular: "media/logo/symentis-logo.png"
+logo_small_devices: "media/logo/symentis-logo_sm.png"
+
+
+# Main Navigation Links
+# -------------------------
+
+navbar_links:
+  - title: "Warsztaty"
+    url: "#workshops"
+  - title: "Prowadzący"
+    url: "#trainers"
+  - title: "FAQ"
+    url: "#faq"
+  - title: "Kontakt"
+    url: "#contact"
+  - title: "Rejestracja"
+    url: "#register"
+
+# Navigation Background Color.
+# Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
+navbar_color: "summer-sky"
+
+# Image Hero
+# -------------------------
+
+title:            "Symentis Labs"
+tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4Developers festiwal"
+
+# Features Thumbs
+# -------------------------
+
+features_thumbs:
+  - title: "Clean Code"
+    icon: "code"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Build with Jekyll"
+    icon: "flask"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Unique Design"
+    icon: "file-image-o"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Responsive"
+    icon: "mobile"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Easy Color Change"
+    icon: "bolt"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "439 Icons"
+    icon: "flag"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Google Maps"
+    icon: "map-marker"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+  - title: "Fullscreen Background"
+    icon: "expand"
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+
+# Blockquote
+# -------------------------
+
+blockquote:
+   text: "Symentis to butik szkoleniowy - zespół profesjonalistów z wieloletnim, praktycznym doświadczeniem w branży rozwoju oprogramowania. Szkolenia i usługi konsultacyjne dopasowujemy do realnych potrzeb firmy, dla której pracujemy."
+   tagline: "Pragmatyzm. Doświadczenie. Pasja"
+   button_text: "Więcej o warsztatach"
+   button_url: "#workshops"
+
+# Services
+# -------------------------
+
+services:
+  title: Warsztaty
+  id: workshops
+  elements:
+   - title: "Łagodnie, acz szczerze o świecie mikroserwisów"
+     icon: "magic"
+     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni tenetur officiis vel aspernatur. Quidem eligendi sequi veritatis vel recusandae porro maxime corporis id, deleniti harum alias asperiores soluta unde aliquam."
+   - title: "Wprowadzenie do MongoDB dla programistów"
+     icon: "desktop"
+     description: "Celem szkolenia jest przybliżenie uczestnikom tematu NoSQL na przykładzie MongoDB. Na szkoleniu uczestnicy dowiedzą się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiedzą się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu uczestnik będzie potrafił zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), pozna i będzie umiał wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego, uczestnik będzie potrafił tworzyć indeksy i wykorzystywać je w zapytaniach. Dodatkowo, w ramach możliwości czasowych, uczestnik dowie się jak realizowana jest agregacja, jakie są jej ograniczenia, będzie potrafił filtrować i agregować dane z dokumentów oraz pozna mechanizm replikacji danych."
+
+# Trainers
+# -------------------------
+
+trainers:
+  title: Prowadzący
+  id: trainers
+  elements:
+   - title: "Jarek Pałka"
+     description: "Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i inżynier od spraw katastrof."
+     bio: "Od ponad 15 lat w branży IT, jako administrator baz danych, programista, architekt, manager i 'inżynier od spraw katastrof'. Brał udział w małych, średnich i nonsensownie dużych projektach, prowadzonych zgodnie zasadami 'waterfall', Agile oraz przy braku jakichkolwiek metodyk, zawsze z tym samym skutkiem. Co doprowadziło go do wniosku, że nie ważne co robisz tak długo, jak robisz to dobrze, w najprostszy z możliwych sposobów i używasz właściwych narzędzi które wykonają pracę za Ciebie.
+     <br/>
+     W międzyczasie dał się porwać ideą TDD oraz Software Craftmanship, do granic możliwości wyeksploatować tak piękne w swej prostocie pomysły jak REST, JavaScript i NOSQL, by potem porzucić je by zgłębić tajniki 'system thinking' i zachwycić się siłą jaką niesie z sobą 'metafora' i odkryć, że rządzą nami te same prawa 'natury'."
+     url: "#bios"
+     image: "media/img/trainer_jarek_sm.jpg"
+   - title: "Wiktor Sztajerowski"
+     description: "Entuzjasta NoSQL’a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach w słusznych celach, dla sławy i zysku."
+     bio: "Programista z ponad 5-cio letnim stażem, trener i konsultant w Symentis.pl, aspirujący mówca konferencyjny, znany między innymi z konferencji 4Developers i Confitura. Obecnie Java Developer w Smart Coders, entuzjasta NoSQL’a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach w słusznych celach, dla sławy i zysku. Prywatnie jeden z liderów łódzkiego JUG’a oraz Zwinnej Łodzi, grupy pasjonatów metody „agile”, a także współinicjator spotkań, Software Architecture & Design Debate, platformy nowego, ciekawego i szerszego spojrzenia na architekturę systemów IT."
+     url: "#bios"
+     image: "media/img/trainer_wiktor_2_sm.jpg"
+   - title: "Jakub Marchwicki"
+     description: "Programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – konsultant, manager z wyboru, trener z zamiłowania."
+     bio: "Programista od kilkunastu lat, architekt od kilku, analityk czasami, konsultant jak trzeba, manager z wyboru, trener z zamiłowania, wannabe entrepreneur - z marzeń, lider Java User Group w Gdańsku - jest spora szansa, że nic z tego nie robię dobrze. Ale próbuję... i wyciągam wnioski z porażek."
+     url: "#bios"
+     image: "media/img/trainer_jakub_sm.jpg"
+
+# Contact
+# -------------------------
+
+contact:
+   title: Kontakt
+   id: contact
+   latitude: "54.383439"
+   longitude: "18.6046961"
+   marker_title: "Hotel Focus Premium"
+   marker_address: "Nad Stawem 5, Gdańsk"
+   phone_number: "+48 607 183 320 (Jakub)"
+   email_address: "szkolenia@symentis.pl"
+   disclaimer: "Organizatorem szkoleń jest: Jarek Pałka (Symentis) oraz Jakub Marchwicki (42 Patterns)"
+
+# Configuration
+# -------------------------
+
+# Dependencies
+pygments: 		  false
+
+# Permalinks
+permalink: 		  none
+
+# Server
+destination: 	  ../dist
+exclude: 		  [".gitignore", "Gemfile", "Gruntfile.js", "node_modules", "package.json"]
+port: 			  1984
