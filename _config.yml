@@ -130,6 +130,9 @@ contact:
 # Configuration
 # -------------------------
 
+analytics:
+  account: UA-104348343-1
+
 # Dependencies
 pygments: 		  false
 
