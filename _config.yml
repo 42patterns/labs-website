@@ -140,6 +140,6 @@ pygments: 		  false
 permalink: 		  none
 
 # Server
-destination: 	  ../dist
-exclude: 		  [".gitignore", "Gemfile", "Gruntfile.js", "node_modules", "package.json"]
+#destination: 	  ../dist
+exclude: 		  [".gitignore", "Rakefile", "Gemfile", "Gruntfile.js", "node_modules", "package.json"]
 port: 			  1984
