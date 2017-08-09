@@ -7,8 +7,6 @@ name: Symentis Labs
 # Main Logo
 # -------------------------
 
-#logo_regular: "media/logo/symentis-logo_regular.png"
-#logo_small_devices: "media/logo/symentis-logo_small.png"
 logo_regular: "media/logo/symentis-logo.png"
 logo_small_devices: "media/logo/symentis-logo_sm.png"
 
@@ -113,7 +111,7 @@ trainers:
      description: "Programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – konsultant, manager z wyboru, trener z zamiłowania."
      bio: "Programista od kilkunastu lat, architekt od kilku, analityk czasami, konsultant jak trzeba, manager z wyboru, trener z zamiłowania, wannabe entrepreneur - z marzeń, lider Java User Group w Gdańsku - jest spora szansa, że nic z tego nie robię dobrze. Ale próbuję... i wyciągam wnioski z porażek."
      url: "#bios"
-     image: "media/img/trainer_jakub_sm.jpg"
+     image: "media/img/trainer_jakub_2_sm.jpg"
 
 # Contact
 # -------------------------
