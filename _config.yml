@@ -113,6 +113,14 @@ trainers:
      url: "#bios"
      image: "media/img/trainer_jakub_2_sm.jpg"
 
+# Register
+# -------------------------
+
+register:
+  id: register
+  title: "Rejestracja"
+  evenea_title: symentis-labs-gdansk2017
+
 # Contact
 # -------------------------
 
