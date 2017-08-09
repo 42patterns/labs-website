@@ -149,5 +149,5 @@ permalink: 		  none
 
 # Server
 #destination: 	  ../dist
-exclude: 		  [".gitignore", "Rakefile", "Gemfile", "Gruntfile.js", "node_modules", "package.json"]
+exclude: 		  [".gitignore", "Rakefile", "Gemfile", "Gruntfile.js", "node_modules", "package.json", "README.md"]
 port: 			  1984
