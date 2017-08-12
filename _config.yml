@@ -7,8 +7,8 @@ name: Symentis Labs
 # Main Logo
 # -------------------------
 
-logo_regular: "media/logo/symentis-logo.png"
-logo_small_devices: "media/logo/symentis-logo_sm.png"
+logo_regular: "media/logo/symentis-logo_white.png"
+logo_small_devices: "media/logo/symentis-logo_sm_white.png"
 
 
 # Main Navigation Links
@@ -34,7 +34,8 @@ navbar_color: "summer-sky"
 # -------------------------
 
 title:            "Symentis Labs"
-tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4Developers festiwal"
+date:             "Gdańsk, 19.09.2017"
+tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4Developers Festiwal"
 
 # Features Thumbs
 # -------------------------
@@ -147,7 +148,7 @@ contact:
    marker_address: "Nad Stawem 5, Gdańsk"
    phone_number: "+48 607 183 320 (Jakub)"
    email_address: "szkolenia@symentis.pl"
-   disclaimer: "<p>Organizatorem szkoleń jest: Jarek Pałka (Symentis) oraz Jakub Marchwicki (42 Patterns)</p><p>Autorem zdjęć jest <a href=\"https://www.flickr.com/photos/kishjar/\">kishjar</a>"
+   disclaimer: "<p>Organizatorem szkoleń jest: Jarek Pałka (Symentis) oraz Jakub Marchwicki (42 Patterns)</p><p>Autorem zdjęcia Gdańska jest <a href=\"https://www.flickr.com/photos/kishjar/\">kishjar</a>"
 
 # Configuration
 # -------------------------
