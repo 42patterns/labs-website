@@ -134,6 +134,7 @@ trainers:
 register:
   id: register
   title: "Rejestracja"
+  tagline: "Gdańsk, <strong>19.09.2017</strong>. Hotel Focus Premium, ul. Nad Stawem 5"
   evenea_title: symentis-labs-gdansk2017
 
 # Contact
