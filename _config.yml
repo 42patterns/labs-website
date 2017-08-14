@@ -34,7 +34,7 @@ navbar_color: "summer-sky"
 # -------------------------
 
 title:            "Symentis Labs"
-date:             "Gdańsk, 19.09.2017"
+date:             "19.09.2017. Hotel Focus Premium, Gdańsk"
 tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4Developers Festiwal"
 
 # Features Thumbs
@@ -65,6 +65,26 @@ features_thumbs:
   - title: "Fullscreen Background"
     icon: "expand"
     description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+
+# FAQ
+# -------------------------
+
+faq:
+  title: Często zadawane pytania
+  id: faq
+  questions:
+    - question: Gdzie odbywa się szkolenie?
+      answer: "Warsztaty będą odbywać się w Hotel Focus Premium w Gdańsku, ul. Do Studzienki (w tym samym miejscu co konferencja 4Developers)"
+    - question: Czy cena zawiera lunch?
+      answer: Cena zawiera przerwy kawowe przez cały czas trwania szkolenia. Na lunch idziemy we własnym zakresie. <br /> Gdańsk Wrzeszcz to mekka <i>hipsterstwa</i> dając nam do wyboru masę świetnych miejsc z wysokiej jakości jedzeniem. Więc po co kisić się w hotelu.
+    - question: A co z parkingiem?
+      answer: Cena nie zawiera parkingu. Przy hotelu jest parking (zewnętrzny) - w cenie od 13 zł za dzień
+    - question: Czy otrzymam fakturę VAT?
+      answer: "Tak, fakturę otrzymasz po szkoleniu. Jeżeli potrzebujesz faktury proforma, napisz na adres: <a href=\"mailto:labs@symentis.pl\">labs@symentis.pl</a>"
+    - question: Czy możliwa jest rezygnacja z uczestnictwa?
+      answer: Niestety nie, opłaty nie podlegają zwrotowi. Ale nic nie stoi na przeszkodzie aby zamiast Ciebie pojawił się ktoś inny.
+
+
 
 # Blockquote
 # -------------------------
