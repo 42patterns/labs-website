@@ -72,6 +72,8 @@ blockquote:
 workshops:
   title: Warsztaty
   id: workshops
+  lead: "Macie trochę czasu do dyspozycji po <b>4Developers Gdańsk</b>? Jesteście gotowi pochłonąć każdą ilość praktycznych informacji? Zapraszamy na warsztaty, które poprowadzą najlepiej ocenieni prelegenci głównej edycji 4Developers - Jarek Pałka, Wiktor Sztajerowski i Jakub Marchwicki!"
+  lead-4dev: "<b>4Developers Gdańsk</b> to nadmorska edycja największego Festiwalu Technologicznego w Polsce. Na scenie lokalnego spotkania eksperci będą dzielić się wiedzą z zakresu Soft Skills, .NET, C++ i Architektur Aplikacji. Więcej informacji o samej konferencji znajdziecie na: <a href=\"https://gdansk.4developers.org.pl\" target=_blank>https://gdansk.4developers.org.pl</a>"
   elements:
    - title: "Łagodnie, acz szczerze o świecie mikroserwisów"
      icon: "sitemap"
