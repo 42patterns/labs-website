@@ -134,6 +134,8 @@ register:
 features:
   title: "Symentis to:"
   id: "about"
+  read-more: "Po więcej informacji sięgnij na "
+  read-more-url: http://symentis.pl
   elements:
     - title: "Szkolenia"
       icon: "users"
