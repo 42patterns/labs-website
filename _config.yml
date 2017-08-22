@@ -40,31 +40,22 @@ tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4
 # Features Thumbs
 # -------------------------
 
-features_thumbs:
-  - title: "Clean Code"
-    icon: "code"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Build with Jekyll"
-    icon: "flask"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Unique Design"
-    icon: "file-image-o"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Responsive"
-    icon: "mobile"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Easy Color Change"
-    icon: "bolt"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "439 Icons"
-    icon: "flag"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Google Maps"
-    icon: "map-marker"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
-  - title: "Fullscreen Background"
-    icon: "expand"
-    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta ipsam a illum, ducimus quod impedit architecto distinctio dolorem amet dignissimos ad corrupti! Fugit aut earum in sit, placeat quis consequatur."
+features:
+  title: "Symentis to:"
+  id: "about"
+  elements:
+    - title: "Szkolenia"
+      icon: "users"
+      description: "Szkolenia na miarę, przez praktyków dla praktyków.<br /><br /><br /><br />"
+    - title: "Doradztwo"
+      icon: "comments-o"
+      description: "Doradzamy zarówno w kwestiach architektury, procesu wytwarzania oprogramowania jak i skalowania Twojej organizacji.<br /><br />"
+    - title: "Audyt"
+      icon: "search"
+      description: "Audyty architektury i kodu źródłowego, realizowalności projektów. Odpowiadamy na wiele trudnych pytań.<br /><br />"
+    - title: "Architecture Kata"
+      icon: "cogs"
+      description: "Jedyny warsztat, który łączy aspekty techniczne, techniki miękkie i komunikację w zespole. Poprzez ciągłe doskonalenie osiągniesz swoje cele."
 
 # FAQ
 # -------------------------
