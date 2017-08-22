@@ -30,7 +30,7 @@ navbar_links:
 # Options: caribbean-green, summer-sky, golden-poppy, deep-carmine-pink
 navbar_color: "summer-sky"
 
-# Image Hero
+# Image header
 # -------------------------
 
 title:            "Symentis Labs"
@@ -98,7 +98,7 @@ blockquote:
 # Services
 # -------------------------
 
-services:
+workshops:
   title: Warsztaty
   id: workshops
   elements:
