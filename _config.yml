@@ -95,10 +95,10 @@ workshops:
   elements:
    - title: "Łagodnie, acz szczerze o świecie mikroserwisów"
      icon: "magic"
-     description: "<p>Słowo mikroserwisy padło w tym roku na konferencjach i portalach branżowych w liczbie, która powinna znaleźć się w Księdze Guinessa. Czy ten nowy, eksplodujący na naszych oczach trend, zmienia na zawsze naszą branżę, czy też przeminie jak wiele innych rozwiązań z kategorii 'silver bullet'? Postaramy się podczas tego szkolenia odpowiedzieć na wiele pytań, wprowadzić podstawowe wzorce i przedstawić techniki projektowania mikrousług. Podzielimy się z Wami naszym doświadczeniami i obserwacjami z implementacji mikrousług i przestrzec przed czającymi się niebezpieczeństwami, a przede wszystkim wywołać dyskusję, która pozwoli odnaleźć Wam Waszą własną drogę w tej nowej architekturze.</p><p>Naszym celem jest zaznajomienie Was z wyzwianiami, które kryje za sobą podróż Waszej organizacji w głąb architektury opartej o mikrousługi oraz przedstawienie problemów i wzorców, które próbują adresować te problemy, takich jak 'API gateway', bezpieczeństwo, skalowanie czy monitoring. Pokażemy nie tylko wzorce, ale także wybrane przez nas narzędzia.</p>"
+     description: "Słowo mikroserwisy padło w tym roku na konferencjach i portalach branżowych w liczbie, która powinna znaleźć się w Księdze Guinessa. Czy ten nowy, eksplodujący na naszych oczach trend, zmienia na zawsze naszą branżę, czy też przeminie jak wiele innych rozwiązań z kategorii 'silver bullet'? Postaramy się podczas tego szkolenia odpowiedzieć na wiele pytań, wprowadzić podstawowe wzorce i przedstawić techniki projektowania mikrousług. Podzielimy się z Wami naszym doświadczeniami i obserwacjami z implementacji mikrousług i przestrzec przed czającymi się niebezpieczeństwami, a przede wszystkim wywołać dyskusję, która pozwoli odnaleźć Wam Waszą własną drogę w tej nowej architekturze."
    - title: "Wprowadzenie do MongoDB dla programistów"
      icon: "desktop"
-     description: "<p>Celem szkolenia jest przybliżenie Wam tematu NoSQL na przykładzie MongoDB. Na szkoleniu dowiecie się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiecie się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu będziecie potrafili zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), poznacie i będziecie umieli wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego,będzie potrafili tworzyć indeksy i wykorzystywać je w zapytaniach. </p>"
+     description: "Celem szkolenia jest przybliżenie Wam tematu NoSQL na przykładzie MongoDB. Na szkoleniu dowiecie się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiecie się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu będziecie potrafili zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), poznacie i będziecie umieli wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego,będzie potrafili tworzyć indeksy i wykorzystywać je w zapytaniach."
 
 # Trainers
 # -------------------------
@@ -159,7 +159,7 @@ contact:
    marker_title: "Hotel Focus Premium"
    marker_address: "Nad Stawem 5, Gdańsk"
    phone_number: "+48 607 183 320 (Jakub)"
-   email_address: "szkolenia@symentis.pl"
+   email_address: "labs@symentis.pl"
    disclaimer: "<p>Organizatorem szkoleń jest: Jarek Pałka (Symentis) oraz Jakub Marchwicki (42 Patterns)</p><p>Autorem zdjęcia Gdańska jest <a href=\"https://www.flickr.com/photos/kishjar/\">kishjar</a>"
 
 # Configuration
