@@ -37,26 +37,6 @@ title:            "Symentis Labs"
 date:             "19.09.2017. Hotel Focus Premium, Gdańsk"
 tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4Developers Festiwal"
 
-# Features Thumbs
-# -------------------------
-
-features:
-  title: "Symentis to:"
-  id: "about"
-  elements:
-    - title: "Szkolenia"
-      icon: "users"
-      description: "Szkolenia na miarę, przez praktyków dla praktyków.<br /><br /><br /><br />"
-    - title: "Doradztwo"
-      icon: "comments-o"
-      description: "Doradzamy zarówno w kwestiach architektury, procesu wytwarzania oprogramowania jak i skalowania Twojej organizacji.<br /><br />"
-    - title: "Audyt"
-      icon: "search"
-      description: "Audyty architektury i kodu źródłowego, realizowalności projektów. Odpowiadamy na wiele trudnych pytań.<br /><br />"
-    - title: "Architecture Kata"
-      icon: "cogs"
-      description: "Jedyny warsztat, który łączy aspekty techniczne, techniki miękkie i komunikację w zespole. Poprzez ciągłe doskonalenie osiągniesz swoje cele."
-
 # FAQ
 # -------------------------
 
@@ -94,10 +74,10 @@ workshops:
   id: workshops
   elements:
    - title: "Łagodnie, acz szczerze o świecie mikroserwisów"
-     icon: "magic"
+     icon: "sitemap"
      description: "Słowo mikroserwisy padło w tym roku na konferencjach i portalach branżowych w liczbie, która powinna znaleźć się w Księdze Guinessa. Czy ten nowy, eksplodujący na naszych oczach trend, zmienia na zawsze naszą branżę, czy też przeminie jak wiele innych rozwiązań z kategorii 'silver bullet'? Postaramy się podczas tego szkolenia odpowiedzieć na wiele pytań, wprowadzić podstawowe wzorce i przedstawić techniki projektowania mikrousług. Podzielimy się z Wami naszym doświadczeniami i obserwacjami z implementacji mikrousług i przestrzec przed czającymi się niebezpieczeństwami, a przede wszystkim wywołać dyskusję, która pozwoli odnaleźć Wam Waszą własną drogę w tej nowej architekturze."
    - title: "Wprowadzenie do MongoDB dla programistów"
-     icon: "desktop"
+     icon: "database"
      description: "Celem szkolenia jest przybliżenie Wam tematu NoSQL na przykładzie MongoDB. Na szkoleniu dowiecie się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiecie się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu będziecie potrafili zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), poznacie i będziecie umieli wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego,będzie potrafili tworzyć indeksy i wykorzystywać je w zapytaniach."
 
 # Trainers
@@ -147,6 +127,27 @@ register:
   title: "Rejestracja"
   tagline: "Gdańsk, <strong>19.09.2017</strong>. Hotel Focus Premium, ul. Nad Stawem 5"
   evenea_title: symentis-labs-gdansk2017
+
+# Features Thumbs
+# -------------------------
+
+features:
+  title: "Symentis to:"
+  id: "about"
+  elements:
+    - title: "Szkolenia"
+      icon: "users"
+      description: "Szkolenia na miarę, przez praktyków dla praktyków.<br /><br /><br /><br />"
+    - title: "Doradztwo"
+      icon: "comments-o"
+      description: "Doradzamy zarówno w kwestiach architektury, procesu wytwarzania oprogramowania jak i skalowania Twojej organizacji.<br /><br />"
+    - title: "Audyt"
+      icon: "search"
+      description: "Audyty architektury i kodu źródłowego, realizowalności projektów. Odpowiadamy na wiele trudnych pytań.<br /><br />"
+    - title: "Architecture Kata"
+      icon: "cogs"
+      description: "Jedyny warsztat, który łączy aspekty techniczne, techniki miękkie i komunikację w zespole. Poprzez ciągłe doskonalenie osiągniesz swoje cele."
+
 
 # Contact
 # -------------------------
