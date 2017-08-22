@@ -1,44 +1,44 @@
-		<section id="{{ site.trainers.id }}" class="section-content main-background-color">
-			<img class="top-diagonal hidden-xs hidden-sm" src="media/img/top-diagonal.png" alt="">
+<section id="{{ site.trainers.id }}" class="section-content main-background-color">
+	<img class="top-diagonal hidden-xs hidden-sm" src="media/img/top-diagonal.png" alt="">
 
-			<div class="container padding-top-50 padding-bottom-50">
-				<div class="row">
-					<div class="col-lg-12">
-						<h1 class="text-center">{{ site.trainers.title }}</h1>
-						<hr class="margin-bottom-50">
+	<div class="container padding-top-50 padding-bottom-50">
+		<div class="row">
+			<div class="col-lg-12">
+				<h1 class="text-center">{{ site.trainers.title }}</h1>
+				<hr class="margin-bottom-50">
 
-						<div class="mosaic-gallery-wrapper margin-top-50">
-							<ul class="mosaic-list">
-								{% for thumbs in site.trainers.elements %}
-								<li class="mosaic-gallery-item col-lg-4 col-ms-4 col-sm-6">
-									<img src="{{ thumbs.image }}" alt="{{ thumbs.title }}">
-									<div class="mosaic-thumb-overlay">
-										<a href="{{ thumbs.url }}">
-											<div class="mosaic-thumb-detail">
-												<h3>{{ thumbs.title }}</h3>
-												<span>{{ thumbs.description }}</span>
-												<i class="fa fa-plus-square-o"></i>
-											</div>
-										</a>
+				<div class="mosaic-gallery-wrapper margin-top-50">
+					<ul class="mosaic-list">
+						{% for thumbs in site.trainers.elements %}
+						<li class="mosaic-gallery-item col-lg-4 col-ms-4 col-sm-6">
+							<img src="{{ thumbs.image }}" alt="{{ thumbs.title }}">
+							<div class="mosaic-thumb-overlay">
+								<a href="{{ thumbs.url }}">
+									<div class="mosaic-thumb-detail">
+										<h3>{{ thumbs.title }}</h3>
+										<span>{{ thumbs.description }}</span>
+										<i class="fa fa-plus-square-o"></i>
 									</div>
-								</li>
-								{% endfor %}
-							</ul>
-						</div>
-
-						<div id="bios" class="container">
-							{% for trainer in site.trainers.elements %}
-							<div class="row">
-								<div class="col-lg-12">
-									<h3>{{ trainer.title }}</h3>
-									<p>{{ trainer.bio }}</p>
-								</div>
+								</a>
 							</div>
-							{% endfor %}
+						</li>
+						{% endfor %}
+					</ul>
+				</div>
+
+				<div id="bios" class="container">
+					{% for trainer in site.trainers.elements %}
+					<div class="row">
+						<div class="col-lg-12">
+							<h3>{{ trainer.title }}</h3>
+							<p>{{ trainer.bio }}</p>
 						</div>
 					</div>
+					{% endfor %}
 				</div>
 			</div>
+		</div>
+	</div>
 
-			<img class="bottom-diagonal hidden-xs hidden-sm" src="media/img/bottom-diagonal.png" alt="">
-		</section>
+	<img class="bottom-diagonal hidden-xs hidden-sm" src="media/img/bottom-diagonal.png" alt="">
+</section>

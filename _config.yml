@@ -81,8 +81,15 @@ workshops:
    - title: "Łagodnie, acz szczerze o świecie mikroserwisów"
      icon: "sitemap"
      description: "Słowo mikroserwisy padło w tym roku na konferencjach i portalach branżowych w liczbie, która powinna znaleźć się w Księdze Guinessa. Czy ten nowy, eksplodujący na naszych oczach trend, zmienia na zawsze naszą branżę, czy też przeminie jak wiele innych rozwiązań z kategorii 'silver bullet'? Postaramy się podczas tego szkolenia odpowiedzieć na wiele pytań, wprowadzić podstawowe wzorce i przedstawić techniki projektowania mikrousług. Podzielimy się z Wami naszym doświadczeniami i obserwacjami z implementacji mikrousług i przestrzec przed czającymi się niebezpieczeństwami, a przede wszystkim wywołać dyskusję, która pozwoli odnaleźć Wam Waszą własną drogę w tej nowej architekturze."
+     youtube: amkHBU0subM
+     benefits:
+       - "Zaznajomisz się z wyzwaniami, które kryje za sobą podróż Twojej organizacji w głąb architektury opartej o mikrousługi; z pojawiającymi się problemami oraz wzorcami, które próbują adresować te problemy"
+       - "Praktycznie poznasz przykładowe implementacje kluczowych elementów architektury mikrousług, takich jak API gatway, Service discovery lub Load-balancing"
+       - "Poznasz dobre praktyki zarządzania logami, bezpieczeństwem aplikacji czy też monitorowaniem systemów w architekturze mikrousług"
+       - "Będziesz miał okazję skonfrontować swoje wątpliwości z innymi uczestnikami, przedyskutować problemy z ekspertami Symentis"
    - title: "Wprowadzenie do MongoDB dla programistów"
      icon: "database"
+     youtube: 5MMZDa_Y8kY
      description: "Celem szkolenia jest przybliżenie Wam tematu NoSQL na przykładzie MongoDB. Na szkoleniu dowiecie się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiecie się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu będziecie potrafili zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), poznacie i będziecie umieli wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego,będzie potrafili tworzyć indeksy i wykorzystywać je w zapytaniach."
 
 # Trainers
