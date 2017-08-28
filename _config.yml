@@ -91,6 +91,14 @@ workshops:
      icon: "database"
      youtube: 5MMZDa_Y8kY
      description: "Celem szkolenia jest przybliżenie Wam tematu NoSQL na przykładzie MongoDB. Na szkoleniu dowiecie się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiecie się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu będziecie potrafili zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), poznacie i będziecie umieli wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego,będzie potrafili tworzyć indeksy i wykorzystywać je w zapytaniach."
+     benefits:
+        - Dowiesz się jak odnaleźć się w gąszczu różnorakich baz no-sql i gdzie w tej plątaninie jest MongoDB.
+        - Poznasz różnice pomiędzy MongoDB a relacyjnymi bazami danych oraz jak polecenia MongoDB mają się do SQL’a.
+        - Będziesz miał okazję \"dotknąć metalu\" i praktycznie poznać bazę z poziomu konsoli - poćwiczymy tworzenie najróżniejszych zapytań, tworzenie i korzystanie z indeksów i wiele więcej.
+        - Dowiesz się na czym polega mechanizm replikacji danych i jeśli tylko czas pozwoli zamienisz się na chwilę w DBA.
+
+
+
 
 # Trainers
 # -------------------------
