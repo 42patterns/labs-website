@@ -72,7 +72,7 @@ workshops:
   id: workshops
   lead: "Macie trochę czasu do dyspozycji po <b>4Developers Łódź</b>?<br />
   Jesteście gotowi pochłonąć każdą ilość praktycznych informacji? <br />
-  Zapraszamy na warsztat, który poprowadzi najlepiej ocenianych prelegentów głównej edycji 4Developers oraz człowiek odpowiedzialny za kształt ścieżki "Architektura Aplikacji"<br />, Jarek Pałka!"
+  Zapraszamy na warsztat, który poprowadzi najlepiej ocenianych prelegentów głównej edycji 4Developers oraz człowiek odpowiedzialny za kształt ścieżki \"Architektura Aplikacji\"<br />, Jarek Pałka!"
   lead-4dev: "<b>4Developers Łódź</b> to kolejna edycja największego Festiwalu Technologicznego w Polsce. Na scenie lokalnego spotkania eksperci będą dzielić się wiedzą z zakresu JavaScript, Java, bazy danych i Agile. Więcej informacji o samej konferencji znajdziecie na: <a href=\"https://lodz.4developers.org.pl\" target=_blank>https://lodz.4developers.org.pl</a>"
   elements:
    - title: "Łagodnie, acz szczerze o świecie mikroserwisów"
