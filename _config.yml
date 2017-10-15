@@ -34,7 +34,7 @@ navbar_color: "summer-sky"
 # -------------------------
 
 title:            "Symentis Labs"
-date:             "19.09.2017. Hotel Focus Premium, Gdańsk"
+date:             "10.11.2017. COWorKING Koscielna 6, Łódź"
 tagline:      	  "Warsztaty prowadzone przez najlepiej ocenianych prelegentów 4Developers Festiwal"
 
 # FAQ
@@ -45,17 +45,15 @@ faq:
   id: faq
   questions:
     - question: Gdzie odbywa się szkolenie?
-      answer: "Warsztaty będą odbywać się w hotelu Focus Premium w Gdańsku, ul. Do Studzienki (w tym samym miejscu co konferencja 4Developers)"
+      answer: "Warsztaty będą odbywać się w COWorKING Koscielna 6"
     - question: Czy cena zawiera lunch?
-      answer: Cena zawiera przerwy kawowe przez cały czas trwania szkolenia. Na lunch idziemy we własnym zakresie. <br /> Gdańsk Wrzeszcz to mekka <i>hipsterstwa</i> dając nam do wyboru masę świetnych miejsc z wysokiej jakości jedzeniem. Więc po co kisić się w hotelu.
+      answer: Cena zawiera przerwy kawowe przez cały czas trwania szkolenia. Na lunch idziemy we własnym zakresie.
     - question: A co z parkingiem?
-      answer: Cena nie zawiera parkingu. Przy hotelu jest parking (zewnętrzny) - w cenie od 13 zł za dzień
+      answer: Cena nie zawiera parkingu.
     - question: Czy otrzymam fakturę VAT?
       answer: "Tak, fakturę otrzymasz po szkoleniu. Jeżeli potrzebujesz faktury proforma, napisz na adres: <a href=\"mailto:labs@symentis.pl\">labs@symentis.pl</a>"
     - question: Czy możliwa jest rezygnacja z uczestnictwa?
       answer: Niestety nie, opłaty nie podlegają zwrotowi. Ale nic nie stoi na przeszkodzie, aby zamiast Ciebie pojawił się ktoś inny.
-
-
 
 # Blockquote
 # -------------------------
@@ -87,18 +85,6 @@ workshops:
        - "Praktycznie poznasz przykładowe implementacje kluczowych elementów architektury mikrousług, takich jak API gatway, Service discovery lub Load-balancing"
        - "Poznasz dobre praktyki zarządzania logami, bezpieczeństwem aplikacji czy też monitorowaniem systemów w architekturze mikrousług"
        - "Będziesz miał okazję skonfrontować swoje wątpliwości z innymi uczestnikami, przedyskutować problemy z ekspertami Symentis"
-   - title: "Wprowadzenie do MongoDB dla programistów"
-     icon: "database"
-     youtube: 5MMZDa_Y8kY
-     description: "Celem szkolenia jest przybliżenie Wam tematu NoSQL na przykładzie MongoDB. Na szkoleniu dowiecie się m.in. czym jest MongoDB, jak wygląda interfejs użytkownika czy jak się ma składnia zapytań MongoDB do klasycznego SQL’a. Dowiecie się również czym jest _id i dlaczego identyfikator encji nie zawsze musi być losową wartością. Po szkoleniu będziecie potrafili zarządzać dokumentami w MongoDB (dodawać, modyfikować, pobierać), poznacie i będziecie umieli wykorzystać składnie zapytań wraz z użyciem projekcji. Oprócz tego,będzie potrafili tworzyć indeksy i wykorzystywać je w zapytaniach."
-     benefits:
-        - Dowiesz się jak odnaleźć się w gąszczu różnorakich baz no-sql i gdzie w tej plątaninie jest MongoDB.
-        - Poznasz różnice pomiędzy MongoDB a relacyjnymi bazami danych oraz jak polecenia MongoDB mają się do SQL’a.
-        - Będziesz miał okazję \"dotknąć metalu\" i praktycznie poznać bazę z poziomu konsoli - poćwiczymy tworzenie najróżniejszych zapytań, tworzenie i korzystanie z indeksów i wiele więcej.
-        - Dowiesz się na czym polega mechanizm replikacji danych i jeśli tylko czas pozwoli zamienisz się na chwilę w DBA.
-
-
-
 
 # Trainers
 # -------------------------
@@ -128,16 +114,6 @@ trainers:
      w radach programowych konferencji JDD oraz 4Developers."
      url: "#bios"
      image: "media/img/trainer_jarek_sm.jpg"
-   - title: "Wiktor Sztajerowski"
-     description: "Entuzjasta NoSQL’a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach w słusznych celach, dla sławy i zysku."
-     bio: "Programista z ponad 5-cio letnim stażem, trener i konsultant w Symentis.pl, aspirujący mówca konferencyjny, znany między innymi z konferencji 4Developers i Confitura. Obecnie Java Developer w Smart Coders, entuzjasta NoSQL’a i orędownik wykorzystywania więcej niż jednej bazy danych w systemach w słusznych celach, dla sławy i zysku. Prywatnie jeden z liderów łódzkiego JUG’a oraz Zwinnej Łodzi, grupy pasjonatów metody „agile”, a także współinicjator spotkań Software Architecture & Design Debate, platformy nowego, ciekawego i szerszego spojrzenia na architekturę systemów IT."
-     url: "#bios"
-     image: "media/img/trainer_wiktor_2_sm.jpg"
-   - title: "Jakub Marchwicki"
-     description: "Programista od kilkunastu lat, architekt od kilku, czasami analityk, gdy potrzeba – konsultant, manager z wyboru, trener z zamiłowania."
-     bio: "Programista od kilkunastu lat, architekt od kilku, analityk czasami, konsultant jak trzeba, manager z wyboru, trener z zamiłowania, wannabe entrepreneur - z marzeń, lider Java User Group w Gdańsku - jest spora szansa, że nic z tego nie robię dobrze. Ale próbuję... i wyciągam wnioski z porażek."
-     url: "#bios"
-     image: "media/img/trainer_jakub_2_sm.jpg"
 
 # Register
 # -------------------------
@@ -145,7 +121,7 @@ trainers:
 register:
   id: register
   title: "Rejestracja"
-  tagline: "Gdańsk, <strong>19.09.2017</strong>. Hotel Focus Premium, ul. Nad Stawem 5"
+  tagline: "Łódź, <strong>10.11.2017</strong>. COWorKING Koscielna 6"
   evenea_title: symentis-labs-gdansk2017
 
 # Features Thumbs
@@ -177,11 +153,11 @@ features:
 contact:
    title: Kontakt
    id: contact
-   latitude: "54.383439"
-   longitude: "18.6046961"
-   marker_title: "Hotel Focus Premium"
-   marker_address: "Nad Stawem 5, Gdańsk"
-   phone_number: "+48 607 183 320 (Jakub)"
+   latitude: "51.782753"
+   longitude: "19.454838"
+   marker_title: "COWorKING Koscielna 6"
+   marker_address: "Kościelna 6, Łódź"
+   phone_number: "+48 603 886 892 (Jarek)"
    email_address: "labs@symentis.pl"
    disclaimer: "<p>Organizatorem szkoleń jest: Jarek Pałka (Symentis) oraz Jakub Marchwicki (42 Patterns)</p><p>Autorem zdjęcia Gdańska jest <a href=\"https://www.flickr.com/photos/kishjar/\">kishjar</a>"
 
